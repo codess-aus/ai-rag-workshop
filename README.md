@@ -15,7 +15,10 @@ urlFragment: simple-flask-server-appservice
 
 This workshop will take us through how to use Azure OpenAI in Python. Then we'll progress to deploying a web app (more instructions on how to deploy a web app are below). 
 
-Start by using the file python_rag.ipynb for the workshop instructions. 
+**How to use this workshop**
+- Click the "Use Template" button to get your own copy of this repository.
+- Use a GitHub Codespace, that will automatically set up your dev environment.
+- In your Codespace navigate to the python_rag.ipynb file, where you will get further instructions and will complete part of the activity.
 
 This repo has been cloned from a Simple Flask App repo so that all of the devops stuff is already set up, if you want to deploy it. (more instructions on how to deploy a web app are below). 
 
